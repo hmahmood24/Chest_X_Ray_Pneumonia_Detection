@@ -28,4 +28,4 @@ print(numpy.__version__)
 
 ```
 - Run the entire script and where prompted, upload the `.json` file downloaded earlier to your Colab environment.
- 
+- Please feel free to download the dataset v2 from https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia to view the images in the `train`, `test` and `val` folders
