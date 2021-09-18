@@ -13,7 +13,7 @@ The following libraries and toolkits are required to run the source code:
 
 ## Environment Setup
 
-- Log on to https://www.kaggle.com/ with your account. Click on `My Account`. Scroll down to `API section`. Click on `Expire API Token. Click on `Create New API Token`.
+- Log on to https://www.kaggle.com/ with your account. Click on `My Account`. Scroll down to `API section`. Click on `Expire API Token`. Click on `Create New API Token`.
 - Download the `.json` file to your local directory.
 - Download the `Model_Interp_Task.ipynb` from this repository to your local directory. 
 - Open `Google Colab` and upload the `Model_Interp_Task.ipynb` to the Colab Notebook.
