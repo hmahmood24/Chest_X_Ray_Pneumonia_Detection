@@ -1,7 +1,6 @@
 # Convolutional Neural Network to Classify Chest Pneumonia X-Ray Images
 
-This repository contains the source code for Classifying Chest Pneumonia X-Ray Images using a Convolutional Neural Network
-This file contains the necessary information about the project environment and the steps required to run the project.
+This repository contains the source code for Classifying Chest Pneumonia X-Ray Images using a Convolutional Neural Network. This file contains the necessary information about the project environment and the steps required to run the project.
 
 ## Preliminaries 
 
