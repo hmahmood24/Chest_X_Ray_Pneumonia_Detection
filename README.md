@@ -17,4 +17,4 @@ The required packages needed to run the project can be found in the `requirement
 - Run the entire script and where prompted, upload the `.json` file downloaded earlier to your Colab environment. This is necessary to link the Kaggle API with the Colab environment so that datasets can be downloaded directly to Colab.
 - Please feel free to download the dataset from https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia to get a feel for the data and view the images in the `train`, `test` and `val` sub-directories.
 
-Note: This repository is part of this [blog post](https://writersbyte.com/datascience/chest-x-ray-pneumonia-classification-using-deep-neural-networks-with-keras/)
+Note: This repository is part of this [blog post](https://writersbyte.com/datascience/pneumonia-detection-using-deep-learning/)
